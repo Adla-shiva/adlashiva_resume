@@ -22,20 +22,20 @@ A smart device designed to help visually impaired users navigate their surroundi
 - **Voice Commands**: Allows users to interact with the device through voice commands for hands-free operation.
 - **Obstacle Detection**: Uses sensors and YOLO to detect obstacles and alert the user through audio or haptic feedback.
 - **Technology Used**: Python, YOLO, Speech recognition libraries, speech engines.
-- [Project Link]()
+
 
 ### Password Manager - Web Application
 A web application for managing and generating secure passwords.
 - **Functionality**: Allows users to store passwords for various applications and generate random passwords using JavaScript.
 - **Technology Used**: JavaScript, CSS, HTML, Bootstrap, Python, Django Framework.
-- [Project Link]()
+
 
 ### FashionMarket - E-Commerce Web Application
 A full-stack Django-based e-commerce platform for buying dresses, providing a seamless online shopping experience.
 - **Product Catalog**: Displays a variety of dresses with details like price, size, color, and brand.
 - **Order Management**: Allows users to view order history, track orders, and manage returns. Integrates with payment gateways like Stripe and PayPal.
 - **Technology Used**: HTML, CSS, JavaScript, Bootstrap, SQL, Python, Django Framework.
-- [Project Link]()
+
 
 ## Experience
 ### Oasis Infobyte
